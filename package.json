@@ -4,10 +4,9 @@
   "private": true,
   "description": "광란의 코드질주",
   "license": "ISC",
-  "author": "",
+  "author": "m-4verick",
   "type": "module",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
