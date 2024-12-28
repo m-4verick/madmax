@@ -3,11 +3,23 @@
   "version": "1.0.0",
   "private": true,
   "description": "광란의 코드질주",
+  "homepage": "https://github.com/m-4verick/madmax#readme",
+  "bugs": {
+    "url": "https://github.com/m-4verick/madmax/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-4verick/madmax.git"
+  },
   "license": "ISC",
-  "author": "",
+  "author": "m-4verick",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "typescript": "^5.7.2"
   }
 }
